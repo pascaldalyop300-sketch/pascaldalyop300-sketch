@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Pascal 👋
 
-<!--
-**pascaldalyop300-sketch/pascaldalyop300-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate focused on software development, backend systems, and database engineering.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Core Tech Stack
+Languages: Java | C++ | Python | SQL
+Databases: MySQL
+Tools & Platforms:** Git / GitHub | VS Code
+
+
+ 📌 Featured Projects
+*(As you push your projects, link them here)*
+- 🔹 [Integer array and struct] – Inserts and deletes elements positions, sorts arrays and traverse details.([integer array and struct.cpp](https://github.com/user-attachments/files/33152407/integer.array.and.struct.cpp)
+)
+- 🔹 [Lab Exercise 2] – C-style string functions. ([labexercise2.cpp](https://github.com/user-attachments/files/33152395/labexercise2.cpp)
+)
+.
+
+
+ 📫 Connect With Me
+Email:pascaldalyop300@gmail.com
+Location Abuja, Nigeria
