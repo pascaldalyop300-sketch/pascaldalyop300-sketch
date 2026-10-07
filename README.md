@@ -15,7 +15,10 @@ Tools & Platforms:** Git / GitHub | VS Code
 - 🔹 [Lab Exercise 2] – C-style string functions. ([labexercise2.cpp](https://github.com/user-attachments/files/33152395/labexercise2.cpp)
 )
 .
-- 🔹 **[Student Record Management System](https://github.com/pascaldalyop300-sketch/student-record-management-system)** – Python & SQLite CLI application implementing full CRUD operations.
+- 🔹 [Student Record Management System](https://github.com/pascaldalyop300-sketch/student-record-management-system) – Python & SQLite CLI application implementing full CRUD operations.
+
+- 🔹 [Java OOP Banking System](https://github.com/pascaldalyop300-sketch/java-banking-system) – Single-file Java application demonstrating OOP principles, abstraction, and persistent binary serialization.
+
 
 
  📫 Connect With Me
